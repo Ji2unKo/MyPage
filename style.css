@@ -1,0 +1,46 @@
+body{
+  background-color: darksalmon;
+}
+
+.blog{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.white-bgc{
+  background-color: antiquewhite;
+}
+
+img{
+  width: 100px;
+}
+
+.go{
+  background-color: coral;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.txt-bold{
+ background-color: beige;
+ padding: 10px 20px;
+}
+
+.txt-under{
+  font-size: larger;
+  text-decoration: underline;
+}
+
+.mail{
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.call{
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
