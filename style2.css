@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: #fff;
+}
+
+.instagram{
+  width: 400px;
+  margin: 20px auto;
+  border: 2px solid pink;
+  text-align: center;
+  padding: 20px;
+}
+
+img{
+  width: 200px;
+}
+
+p{
+  color: deeppink;
+}
+
+.post{
+  width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: plum;
+  border-radius: 10px;
+}
+
+h2{
+  font-style: italic
+}
+
+.Unordered{
+  text-decoration: underline;
+}
