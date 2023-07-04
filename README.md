@@ -1,2 +1,2 @@
 # post
-https://jieun0212.github.io/post/
+https://Ji2unKo.github.io/post/
